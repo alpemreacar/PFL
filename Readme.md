@@ -15,6 +15,9 @@ An example code for CIFAr-10, ACID, 5 class per device setting is given. Run
 ```example_code_cifar10.py```
 
 The code,
-1- Constructs a federated dataset,
-2- Trains all methods,
-3- Plots the average test accuracy vs. rounds convergence curves.
+
+- Constructs a federated dataset,
+
+- Trains all methods,
+
+- Plots the average test accuracy vs. rounds convergence curves.
