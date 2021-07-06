@@ -12,7 +12,7 @@ Please install the required packages. The code is compiled with Python 3.7 depen
 
 An example code for CIFAr-10, ACID, 5 class per device setting is given. Run
 
-```python example_code_cifar10.py```
+```python cifar10_ACID.py```
 
 The code,
 
