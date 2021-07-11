@@ -21,3 +21,22 @@ The code,
 - Trains all methods,
 
 - Plots the average test accuracy vs. rounds convergence curves.
+
+### Citation
+
+```
+@InProceedings{pmlr-v139-acar21a,
+  title = {Debiasing Model Updates for Improving Personalized Federated Training},
+  author = {Acar, Durmus Alp Emre and Zhao, Yue and Zhu, Ruizhao and Matas, Ramon and Mattina, Matthew and Whatmough, Paul and Saligrama, Venkatesh},
+  booktitle = {Proceedings of the 38th International Conference on Machine Learning},
+  pages = {21--31},
+  year = {2021},
+  editor = {Meila, Marina and Zhang, Tong},
+  volume = {139},
+  series = {Proceedings of Machine Learning Research},
+  month = {18--24 Jul},
+  publisher = {PMLR},
+  pdf =  {http://proceedings.mlr.press/v139/acar21a/acar21a.pdf},
+  url =  {http://proceedings.mlr.press/v139/acar21a.html}
+}
+```
